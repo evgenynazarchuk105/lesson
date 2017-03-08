@@ -11,9 +11,6 @@ namespace WhatIsGit
         static void Main(string[] args)
         {
             Console.WriteLine("hello 1");
-            Console.WriteLine("hello 2");
-            Console.WriteLine("hello 3");
-            Console.WriteLine("hello 4");
         }
     }
 }
