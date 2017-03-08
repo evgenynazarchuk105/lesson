@@ -11,6 +11,7 @@ namespace WhatIsGit
         static void Main(string[] args)
         {
             Console.WriteLine(Catalog.PrintCatalog());
+            Console.WriteLine("what the fuck?");
         }
     }
 }
