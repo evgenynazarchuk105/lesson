@@ -15,6 +15,7 @@ namespace WhatIsGit
             Console.WriteLine("3");
             Console.WriteLine("4");
             Console.WriteLine("5");
+            Console.WriteLine("6");
         }
     }
 }
