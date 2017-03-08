@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace WhatIsGit
 {
-    class Program
+    static class Product
     {
-        static void Main(string[] args)
+        public static string PrintProduct()
         {
-            Console.WriteLine(Catalog.PrintCatalog());
-            Console.WriteLine(Product.PrintProduct());
+            return "product";
         }
     }
 }
