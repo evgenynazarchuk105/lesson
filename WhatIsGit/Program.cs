@@ -10,7 +10,7 @@ namespace WhatIsGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello 1");
+            Console.WriteLine("1");
         }
     }
 }
