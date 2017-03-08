@@ -12,7 +12,6 @@ namespace WhatIsGit
         {
             Console.WriteLine(Catalog.PrintCatalog());
             Console.WriteLine(Product.PrintProduct());
-            Console.WriteLine("what the fuck?");
         }
     }
 }
