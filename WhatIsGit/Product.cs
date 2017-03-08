@@ -10,7 +10,7 @@ namespace WhatIsGit
     {
         public static string PrintProduct()
         {
-            return "product";
+            return "product product";
         }
     }
 }

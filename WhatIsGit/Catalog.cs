@@ -10,7 +10,7 @@ namespace WhatIsGit
     {
         public static string PrintCatalog()
         {
-            return "catalog";
+            return "catalog catalog";
         }
     }
 }
